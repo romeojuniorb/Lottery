@@ -1,0 +1,2 @@
+# Lottery
+Practicing with states
